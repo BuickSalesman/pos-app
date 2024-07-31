@@ -1,0 +1,139 @@
+{
+  "sandwiches":
+  {
+    "originals": 
+    [
+      {
+        "id": 1,
+        "name": "Pepe",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Ham", "Cheese"]
+      },
+      {
+        "id": 2,
+        "name": "Big John",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Roast Beef"]
+      },
+      {
+        "id": 3,
+        "name": "Pepe",
+        "ingredients": ["Tomato", "Cucumber", "Lettuce", "Tuna Salad"]
+      },
+      {
+        "id": 4,
+        "name": "Turkey Tom",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Turkey"]
+      },
+      {
+        "id": 5,
+        "name": " Vito",
+        "ingredients": ["Tomato", "Onion", "Lettuce", "Sauce", "Oregano", "Salami", "Capicola", "Cheese"]
+      },
+      {
+        "id": 6,
+        "name": "Veggie",
+        "ingredients": ["Mayo", "Tomato", "Cucumber", "Lettuce", "Cheese", "Avocado"]
+      },
+      {
+        "id": "BLT",
+        "name": "J.J.B.L.T.",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Bacon"]
+      }
+    ],
+    "favorites":
+    [
+      {
+        "id": 7,
+        "name": "Spicy Italian",
+        "ingredients": ["Mayo", "Tomato", "Hot Peppers", "Onion", "Lettuce", "Sauce", "Oregano", "Salami", "Capicola", "Cheese"]
+      },
+      {
+        "id": 8,
+        "name": "Billy Club",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Roast Beef", "Ham", "Cheese", "Mustard"]
+      },
+      {
+        "id": 9,
+        "name": "Italian Night Club",
+        "ingredients": ["Mayo", "Tomato", "Onion", "Lettuce", "Sauce", "Oregano", "Salami", "Capicola", "Cheese"]
+      },
+      {
+        "id": 10,
+        "name": "Hunter's Club",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Roast Beef", "Cheese"]
+      },
+      {
+        "id": 11,
+        "name": "Country Club",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Turkey", "Ham", "Cheese"]
+      },
+      {
+        "id": 12,
+        "name": "Beach Club",
+        "ingredients": ["Mayo", "Tomato", "Cucumber", "Lettuce", "Turkey", "Cheese", "Avocado"]
+      },
+      {
+        "id": 13,
+        "name": "Jimmy Cubano",
+        "ingredients": ["Mayo", "Pickles", "Ham", "Bacon", "Cheese", "Mustard"]
+      },
+      {
+        "id": 14,
+        "name": "Bootlegger Club",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Roast Beef", "Turkey"]
+      },
+      {
+        "id": 15,
+        "name": "Club Tuna",
+        "ingredients": ["Tomato", "Cucumber", "Lettuce", "Tuna Salad", "Cheese"]
+      },
+      {
+        "id": 16,
+        "name": "Club Lulu",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Turkey", "Bacon"]
+      },
+      {
+        "id": 17,
+        "name": "Ultimate Porker",
+        "ingredients": ["Mayo", "Tomato", "Lettuce", "Ham", "Bacon"]
+      }
+    ],
+    "slims":
+    [
+      {
+        "id": "S1",
+        "name": "Slim 1",
+        "ingredients": ["Ham", "Cheese"]
+      },
+      {
+        "id": "S2",
+        "name": "Slim 2",
+        "ingredients": ["Roast Beef"]
+      },
+      {
+        "id": "S3",
+        "name": "Slim 3",
+        "ingredients": ["Tuna Salad"]
+      },
+      {
+        "id": "S4",
+        "name": "Slim 4",
+        "ingredients": ["Turkey"]
+      },
+      {
+        "id": "S5",
+        "name": "Slim 5",
+        "ingredients": ["Salami", "Capicola", "Cheese"]
+      },
+      {
+        "id": "S6",
+        "name": "Slim 6",
+        "ingredients": ["Cheese"]
+      },
+      {
+        "id": "SB",
+        "name": "Slim Bacon",
+        "ingredients": ["Bacon"]
+      }
+    ]
+  }
+}
