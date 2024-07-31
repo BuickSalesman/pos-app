@@ -4,43 +4,43 @@
     "originals": 
     [
       {
-        "id": 1,
+        "number": 1,
         "name": "Pepe",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Ham", "Cheese"],
         "price": 7
       },
       {
-        "id": 2,
+        "number": 2,
         "name": "Big John",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Roast Beef"],
         "price": 7
       },
       {
-        "id": 3,
+        "number": 3,
         "name": "Pepe",
         "ingredients": ["Tomato", "Cucumber", "Lettuce", "Tuna Salad"],
         "price": 7
       },
       {
-        "id": 4,
+        "number": 4,
         "name": "Turkey Tom",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Turkey"],
         "price": 7
       },
       {
-        "id": 5,
+        "number": 5,
         "name": " Vito",
         "ingredients": ["Tomato", "Onion", "Lettuce", "Sauce", "Oregano", "Salami", "Capicola", "Cheese"],
         "price": 7
       },
       {
-        "id": 6,
+        "number": 6,
         "name": "Veggie",
         "ingredients": ["Mayo", "Tomato", "Cucumber", "Lettuce", "Cheese", "Avocado"],
         "price": 7
       },
       {
-        "id": "BLT",
+        "number": "BLT",
         "name": "J.J.B.L.T.",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Bacon"],
         "price": 7
@@ -49,112 +49,118 @@
     "favorites":
     [
       {
-        "id": 7,
+        "number": 7,
         "name": "Spicy Italian",
         "ingredients": ["Mayo", "Tomato", "Hot Peppers", "Onion", "Lettuce", "Sauce", "Oregano", "Salami", "Capicola", "Cheese"],
         "price": 8
       },
       {
-        "id": 8,
+        "number": 8,
         "name": "Billy Club",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Roast Beef", "Ham", "Cheese", "Mustard"],
         "price": 8
       },
       {
-        "id": 9,
+        "number": 9,
         "name": "Italian Night Club",
         "ingredients": ["Mayo", "Tomato", "Onion", "Lettuce", "Sauce", "Oregano", "Salami", "Capicola", "Cheese"],
         "price": 8
       },
       {
-        "id": 10,
+        "number": 10,
         "name": "Hunter's Club",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Roast Beef", "Cheese"],
         "price": 8
       },
       {
-        "id": 11,
+        "number": 11,
         "name": "Country Club",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Turkey", "Ham", "Cheese"],
         "price": 8
       },
       {
-        "id": 12,
+        "number": 12,
         "name": "Beach Club",
         "ingredients": ["Mayo", "Tomato", "Cucumber", "Lettuce", "Turkey", "Cheese", "Avocado"],
         "price": 8
       },
       {
-        "id": 13,
+        "number": 13,
         "name": "Jimmy Cubano",
         "ingredients": ["Mayo", "Pickles", "Ham", "Bacon", "Cheese", "Mustard"],
         "price": 8
       },
       {
-        "id": 14,
+        "number": 14,
         "name": "Bootlegger Club",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Roast Beef", "Turkey"],
         "price": 8
       },
       {
-        "id": 15,
+        "number": 15,
         "name": "Club Tuna",
         "ingredients": ["Tomato", "Cucumber", "Lettuce", "Tuna Salad", "Cheese"],
         "price": 8
       },
       {
-        "id": 16,
+        "number": 16,
         "name": "Club Lulu",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Turkey", "Bacon"],
         "price": 8
       },
       {
-        "id": 17,
+        "number": 17,
         "name": "Ultimate Porker",
         "ingredients": ["Mayo", "Tomato", "Lettuce", "Ham", "Bacon"],
         "price": 8
+      },
+      {
+        "number": "GAR", 
+        "name": "Gargantuan",
+        "ingredients": ["Mayo", "Tomato", "Onion", "Lettuce", "Sauce", "Oregano", "Roast Beef", "Turkey", "Salami", "Capicola", "Ham", "Cheese"],
+        "price": 10
       }
     ],
     "slims":
     [
       {
-        "id": "S1",
+        "number": "S1",
         "name": "Slim 1",
         "ingredients": ["Ham", "Cheese"],
         "price": 5
       },
       {
-        "id": "S2",
+        "number": "S2",
         "name": "Slim 2",
         "ingredients": ["Roast Beef"],
         "price": 5
       },
       {
-        "id": "S3",
+        "number": "S3",
         "name": "Slim 3",
         "ingredients": ["Tuna Salad"],
         "price": 5
       },
       {
-        "id": "S4",
+        "number": "S4",
         "name": "Slim 4",
         "ingredients": ["Turkey"],
         "price": 5
       },
       {
-        "id": "S5",
+        "number": "S5",
         "name": "Slim 5",
         "ingredients": ["Salami", "Capicola", "Cheese"],
         "price": 5
       },
       {
-        "id": "S6",
+        "number": "S6",
         "name": "Slim 6",
         "ingredients": ["Cheese"],
         "price": 5
       },
       {
-        "id": "SB",
+        "number": "SB",
         "name": "Slim Bacon",
         "ingredients": ["Bacon"],
         "price": 5
