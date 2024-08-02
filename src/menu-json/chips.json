@@ -1,6 +1,24 @@
 {
-  "chips": {
-    "flavor": ["Regular", "Barbeque", "Salt and Vinegar", "Jalapeno", "Thinny"],
-    "price": 2
-  }
+  "chips": [
+    {
+      "flavor": "regular",
+      "price": 2 
+    },
+    {
+      "flavor": "barbeque",
+      "price": 2 
+    },
+    {
+      "flavor": "salt & vinegar",
+      "price": 2 
+    },
+    {
+      "flavor": "jalapeno",
+      "price": 2 
+    },
+    {
+      "flavor": "thinny",
+      "price": 2 
+    }
+  ]
 }
