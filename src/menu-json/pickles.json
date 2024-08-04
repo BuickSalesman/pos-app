@@ -1,0 +1,16 @@
+{
+  "pickles": [
+    {
+      "cut": "quartered",
+      "price": 1.5
+    },
+    {
+      "cut": "halved",
+      "price": 1.5
+    },
+    {
+      "cut": "whole",
+      "price": 1.5
+    }
+  ]
+}
