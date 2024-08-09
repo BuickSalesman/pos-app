@@ -1,7 +1,13 @@
 .ticket-display {
+  width: 100%;  /* Full width of the container */
+  height: 100%; /* Full height of the container */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
 
-  h1 {
-    color: rebeccapurple;
-  }
-
+.ticket-display h1 {
+  color: rebeccapurple;
+  margin: 0; /* Remove default margin from h1 */
 }
