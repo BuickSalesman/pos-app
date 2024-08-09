@@ -1,8 +1,15 @@
 .main-window {
-  outline: 2px solid aquamarine;
+  margin: 3 px;
+  border: 2px solid aquamarine;
+  padding: 20px;
+  width: 62.5vw;
+  height: 75vh;
 
 h1 {
   color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 }

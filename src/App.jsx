@@ -11,9 +11,15 @@ function App() {
         <TicketDisplay />
       </div>
       <div className="make-better-name-later">
-        <MainWindow />
-        <Sides />
-        <NavButtons />
+        <div className="main-window-container">
+          <MainWindow />
+        </div>
+        <div className="sides-container">
+          <Sides />
+        </div>
+        <div className="nav-buttons-container">
+          <NavButtons />
+        </div>
       </div>
     </div>
   );

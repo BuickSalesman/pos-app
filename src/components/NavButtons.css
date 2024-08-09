@@ -1,8 +1,15 @@
 .nav-buttons {
-  outline: 2px solid rgb(35, 35, 35);
+  margin: 3 px;
+  border: 2px solid rgb(35, 35, 35);
+  padding: 20px;
+  width: 62.5vw;
+  height: 2.5vh;
 
 h1 {
+  font-size: small;
   color: rgb(35, 35, 35);
+  display: flex;
+  justify-content: center;
 }
 
 }

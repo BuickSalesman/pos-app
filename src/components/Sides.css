@@ -1,8 +1,15 @@
 .sides {
-  outline: 2px solid red;
+  margin: 3 px;
+  border: 2px solid red;
+  padding: 20px;
+  width: 62.5vw;
+  height: 5vh;
 
   h1 {
     color: red;
+    display: flex;
+    justify-content: center;
+    font-size: small;
   }
 
 }
