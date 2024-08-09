@@ -1,15 +1,15 @@
 .app-container {
   display: flex;
   flex-direction: row;
-  height: 100vh; /* Full height of the viewport */
+  height: 100vh;
 }
 
 .ticket-display-container {
-  width: 20vw;   /* 20% of the viewport width */
-  height: 100vh; /* Full height of the viewport */
-  outline: 2px solid rebeccapurple; /* Outline applied to the container */
+  width: 20vw; 
+  height: 100vh; 
+  outline: 2px solid rebeccapurple;
   box-sizing: border-box;
   display: flex;
-  align-items: center; /* Center content vertically */
-  justify-content: center; /* Center content horizontally */
+  align-items: center;
+  justify-content: center; 
 }
